@@ -1,0 +1,21 @@
+.cpcache
+classes
+pom.xml
+pom.xml.asc
+*.bin
+*.jar
+*.class
+/.lein*
+/.nrepl*
+.hgignore
+.hg/
+
+
+#
+/target
+.shadow-cljs
+
+
+# node
+node_modules
+yarn.lock
